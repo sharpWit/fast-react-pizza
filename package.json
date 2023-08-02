@@ -2,7 +2,7 @@
   "name": "fast-react-pizza",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://sharpwit.github.io/fast-react-pizza/",
+  "homepage": "https://sharpWit.github.io/fast-react-pizza",
   "type": "module",
   "scripts": {
     "dev": "vite",
